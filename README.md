@@ -18,11 +18,9 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/search-insert-position/)
 - **Solution:** [Search_Insert_Position.java](LeetCode/Search_Insert_Position.java)
 
-121. Best Time to Buy and Sell Stock
-
-Problem Link: LeetCode
-
-Solution: Best_Time_to_Buy_and_Sell_Stock.java
+### 121. Best Time to Buy and Sell Stock
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- **Solution:** [Buy_Sell_Stock.java](LeetCode/Buy_Sell_Stock.java)
 
 ## GeeksforGeeks Solutions
 
