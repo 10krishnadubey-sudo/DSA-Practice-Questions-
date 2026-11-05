@@ -14,6 +14,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 |---|---|---|---|
 | 1 | Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | [Java Solution](LeetCode/1_Two_Sum.java) |
 
+
+| 35 | Search Insert Position | [LeetCode](https://leetcode.com/problems/search-insert-position/) | [Java Solution](LeetCode/Search_Insert_Position.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
+ |
