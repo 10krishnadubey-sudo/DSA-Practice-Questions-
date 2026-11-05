@@ -10,10 +10,13 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 
 ## LeetCode Solutions
 
-| Problem No. | Problem Name | Problem Link | Solution |
-|---|---|---|---|
-| 1 | Two Sum | [LeetCode](https://leetcode.com/problems/two-sum/) | [Java Solution](LeetCode/1_Two_Sum.java) |
-| 35 | Search Insert Position | [LeetCode](https://leetcode.com/problems/search-insert-position/) | [Java Solution](LeetCode/Search_Insert_Position.java) |
+### 1. Two Sum
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/two-sum/)
+- **Solution:** [Two_Sum.java](LeetCode/1_Two_Sum.java)
+
+### 35. Search Insert Position
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/search-insert-position/)
+- **Solution:** [Search_Insert_Position.java](LeetCode/Search_Insert_Position.java)
 
 ## GeeksforGeeks Solutions
 
