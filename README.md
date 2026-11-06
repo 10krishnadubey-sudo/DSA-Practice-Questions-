@@ -114,3 +114,8 @@ My GeeksforGeeks practice solutions using Java.
 
 - **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)
 - **Solution:** [Move_allzeros.java](GeeksforGeeks/Move_allzeros.java)
+
+#### Bubble Sort
+- **Problem:** Bubble Sort
+- **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1)
+- **Solution:** [bubblesort.java](GeeksforGeeks/bubblesort.java)
