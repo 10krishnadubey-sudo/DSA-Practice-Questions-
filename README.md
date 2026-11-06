@@ -42,6 +42,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
 - **Solution:** [Max_consecutive_Ones.java](LeetCode/Max_consecutive_Ones.java)
 
+### 268. Missing Number
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/missing-number/)
+- **Solution:** [Missing_Number.java](LeetCode/Missing_Number.java)
+
 
 ## GeeksforGeeks Solutions
 
