@@ -22,7 +22,7 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - **Solution:** [Buy_Sell_Stock.java](LeetCode/Buy_Sell_Stock.java)
 
-### 66. Plus_One
+### 66. Plus One
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/plus-one/)
 - **Solution:** [Plus_One.java](LeetCode/Plus_One.java)
 
@@ -72,4 +72,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 
 ## GeeksforGeeks Solutions
 
-Solutions will be added here as problems are solved.
+My GeeksforGeeks practice solutions using Java.
+
+### Linked List
+
+#### Linked List End Insertion
+- **Problem:** Linked List End Insertion
+- **Solution:** [Linkedlist_end_insertion.java](GeeksforGeeks/Linkedlist_end_insertion.java)
