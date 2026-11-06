@@ -58,6 +58,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/next-greater-element-i/)
 - **Solution:** [Next._greaterelement.java](LeetCode/Next._greaterelement.java)
 
+### 746. Min Cost Climbing Stairs
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- **Solution:** [Most_climbing_Stairs.java](LeetCode/Most_climbing_Stairs.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
