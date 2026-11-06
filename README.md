@@ -104,3 +104,8 @@ My GeeksforGeeks practice solutions using Java.
 - **Problem:** Binary Search
 - **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-search-1587115621/1)
 - **Solution:** [binary_search.java](GeeksforGeeks/binary_search.java)
+
+#### Largest in Array
+
+- **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+- **Solution:** [largest_inarray.java](GeeksforGeeks/largest_inarray.java)
