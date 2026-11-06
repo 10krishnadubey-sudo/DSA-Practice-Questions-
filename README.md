@@ -46,6 +46,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/missing-number/)
 - **Solution:** [Missing_Number.java](LeetCode/Missing_Number.java)
 
+### 16. 3Sum Closest
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/3sum-closest/)
+- **Solution:** [Three_sum_closest.java](LeetCode/Three_sum_closest.java)
+
 
 ## GeeksforGeeks Solutions
 
