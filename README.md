@@ -109,3 +109,8 @@ My GeeksforGeeks practice solutions using Java.
 
 - **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
 - **Solution:** [largest_inarray.java](GeeksforGeeks/largest_inarray.java)
+
+#### Move All Zeroes to End
+
+- **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)
+- **Solution:** [Move_allzeros.java](GeeksforGeeks/Move_allzeros.java)
