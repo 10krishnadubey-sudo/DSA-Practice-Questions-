@@ -62,6 +62,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - **Solution:** [Most_climbing_Stairs.java](LeetCode/Most_climbing_Stairs.java)
 
+### 83. Remove Duplicates from Sorted List
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- **Solution:** [Remove_Duplicates_from_Sorted_List.java](LeetCode/Remove_Duplicates_from_Sorted_List.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
