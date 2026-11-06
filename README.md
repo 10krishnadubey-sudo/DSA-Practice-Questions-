@@ -66,6 +66,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - **Solution:** [Remove_Duplicates_from_Sorted_List.java](LeetCode/Remove_Duplicates_from_Sorted_List.java)
 
+### 234. Palindrome Linked List
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)
+- **Solution:** [Palindrome_Linkedlist.java](LeetCode/Palindrome_Linkedlist.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
