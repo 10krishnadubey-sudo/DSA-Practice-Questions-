@@ -40,7 +40,7 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 
 ### 485. Max Consecutive Ones
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
-- **Solution:** [Max_Consecutive_Ones.java](LeetCode/Max_Consecutive_Ones.java)
+- **Solution:** [Max_consecutive_Ones.java](LeetCode/Max_consecutive_Ones.java)
 
 
 ## GeeksforGeeks Solutions
