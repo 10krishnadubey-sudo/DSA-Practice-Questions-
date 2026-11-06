@@ -50,6 +50,9 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/3sum-closest/)
 - **Solution:** [Three_sum_closest.java](LeetCode/Three_sum_closest.java)
 
+### 283. Move Zeroes
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/move-zeroes/)
+- **Solution:** [Move.zeros.java](LeetCode/Move.zeros.java)
 
 ## GeeksforGeeks Solutions
 
