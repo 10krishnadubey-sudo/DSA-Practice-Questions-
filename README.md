@@ -99,3 +99,8 @@ My GeeksforGeeks practice solutions using Java.
 #### Doubly Linked List Traversal
 - **Problem:** Doubly Linked List Traversal
 - **Solution:** [Doubly_linkedlist_traversal.java](GeeksforGeeks/Doubly_linkedlist_traversal.java)
+
+#### Binary Search
+- **Problem:** Binary Search
+- **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/binary-search-1587115621/1)
+- **Solution:** [binary_search.java](GeeksforGeeks/binary_search.java)
