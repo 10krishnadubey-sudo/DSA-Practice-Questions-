@@ -79,3 +79,7 @@ My GeeksforGeeks practice solutions using Java.
 #### Linked List End Insertion
 - **Problem:** Linked List End Insertion
 - **Solution:** [Linkedlist_end_insertion.java](GeeksforGeeks/Linkedlist_end_insertion.java)
+
+#### Length of Linked List
+- **Problem:** Length of Linked List
+- **Solution:** [Length_of_Linked_List.java](GeeksforGeeks/Length_of_Linked_List.java)
