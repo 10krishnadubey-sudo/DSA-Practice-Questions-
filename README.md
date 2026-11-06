@@ -34,6 +34,11 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - **Solution:** [Remove_Duplicates_from_SortedArray.java](LeetCode/Remove_Duplicates_from_SortedArray.java)
 
+### 88. Merge Sorted Array
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
+- **Solution:** [Merge_Sorted_Array.java](LeetCode/Merge_Sorted_Array.java)
+
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
