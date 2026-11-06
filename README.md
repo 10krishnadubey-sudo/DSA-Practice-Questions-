@@ -95,3 +95,7 @@ My GeeksforGeeks practice solutions using Java.
 #### Search in Linked List
 - **Problem:** Search in Linked List
 - **Solution:** [search_linkedlist.java](GeeksforGeeks/search_linkedlist.java)
+
+#### Doubly Linked List Traversal
+- **Problem:** Doubly Linked List Traversal
+- **Solution:** [Doubly_linkedlist_traversal.java](GeeksforGeeks/Doubly_linkedlist_traversal.java)
