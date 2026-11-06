@@ -26,6 +26,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/plus-one/)
 - **Solution:** [Plus_One.java](LeetCode/Plus_One.java)
 
+### 9. Palindrome Number
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/palindrome-number/)
+- **Solution:** [is_palindrome.java](LeetCode/is_palindrome.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
