@@ -30,6 +30,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/palindrome-number/)
 - **Solution:** [is_palindrome.java](LeetCode/is_palindrome.java)
 
+### 26. Remove Duplicates from Sorted Array
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- **Solution:** [Remove_Duplicates_from_SortedArray.java](LeetCode/Remove_Duplicates_from_SortedArray.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
