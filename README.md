@@ -119,3 +119,7 @@ My GeeksforGeeks practice solutions using Java.
 - **Problem:** Bubble Sort
 - **Problem Link:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/bubble-sort/1)
 - **Solution:** [bubblesort.java](GeeksforGeeks/bubblesort.java)
+
+#### Greatest of Three Numbers
+- **Problem:** Greatest of Three Numbers
+- **Solution:** [greatest_threeno.java](GeeksforGeeks/greatest_threeno.java)
