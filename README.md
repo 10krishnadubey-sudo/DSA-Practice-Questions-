@@ -83,3 +83,15 @@ My GeeksforGeeks practice solutions using Java.
 #### Length of Linked List
 - **Problem:** Length of Linked List
 - **Solution:** [Length_linkedlist.java](GeeksforGeeks/Length_linkedlist.java)
+
+#### Identical Linked Lists
+- **Problem:** Identical Linked Lists
+- **Solution:** [Identical_linkedlist.java](GeeksforGeeks/Identical_linkedlist.java)
+
+#### Linked List Traversal
+- **Problem:** Linked List Traversal
+- **Solution:** [Linkedlist_traversal.java](GeeksforGeeks/Linkedlist_traversal.java)
+
+#### Search in Linked List
+- **Problem:** Search in Linked List
+- **Solution:** [search_linkedlist.java](GeeksforGeeks/search_linkedlist.java)
