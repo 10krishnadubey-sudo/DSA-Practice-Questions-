@@ -38,6 +38,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/merge-sorted-array/)
 - **Solution:** [Merge_Sorted_Array.java](LeetCode/Merge_Sorted_Array.java)
 
+### 485. Max Consecutive Ones
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
+- **Solution:** [Max_Consecutive_ones.java](LeetCode/Max_Consecutive_ones.java)
+
 
 ## GeeksforGeeks Solutions
 
