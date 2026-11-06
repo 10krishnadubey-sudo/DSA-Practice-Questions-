@@ -54,6 +54,10 @@ I solve problems on LeetCode and GeeksforGeeks and maintain their accepted solut
 - **Problem Link:** [LeetCode](https://leetcode.com/problems/move-zeroes/)
 - **Solution:** [Move.zeros.java](LeetCode/Move.zeros.java)
 
+### 496. Next Greater Element I
+- **Problem Link:** [LeetCode](https://leetcode.com/problems/next-greater-element-i/)
+- **Solution:** [Next._greaterelement.java](LeetCode/Next._greaterelement.java)
+
 ## GeeksforGeeks Solutions
 
 Solutions will be added here as problems are solved.
